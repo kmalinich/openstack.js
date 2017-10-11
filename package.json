@@ -13,7 +13,7 @@
   "license": "MIT",
   "dependencies": {
     "co": "^4.6.0",
-    "request-promise": "^2.0.0"
+    "request-promise": "^4.2.2"
   },
   "devDependencies": {},
   "repository": {

@@ -1,27 +1,27 @@
 {
-  "name": "openstack-client",
-  "version": "0.4.0",
-  "description": "openstack client for nodejs",
-  "main": "index.js",
-  "scripts": {
-    "test": "mocha test"
-  },
-  "keywords": [
-    "openstack"
-  ],
-  "author": "zf",
-  "license": "MIT",
-  "dependencies": {
-    "co": "^4.6.0",
-    "request-promise": "^4.2.2"
-  },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/zweifisch/openstack.js.git"
-  },
-  "bugs": {
-    "url": "https://github.com/zweifisch/openstack.js/issues"
-  },
-  "homepage": "https://github.com/zweifisch/openstack.js#readme"
+	"author": "zf",
+	"bugs": {
+		"url": "https://github.com/zweifisch/openstack.js/issues"
+	},
+	"dependencies": {
+		"co": "^4.6.0",
+		"request-promise": "^4.2.2"
+	},
+	"description": "openstack client for nodejs",
+	"devDependencies": {},
+	"homepage": "https://github.com/zweifisch/openstack.js#readme",
+	"keywords": [
+		"openstack"
+	],
+	"license": "MIT",
+	"main": "index.js",
+	"name": "openstack-client",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/zweifisch/openstack.js.git"
+	},
+	"scripts": {
+		"test": "mocha test"
+	},
+	"version": "0.4.0"
 }
